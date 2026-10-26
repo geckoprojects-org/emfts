@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is deprecated and archived.**
+> It is no longer maintained. Development continues in [eclipse-fennec/emf.ts](https://github.com/eclipse-fennec/emf.ts).
+
 # EMFTS - Eclipse Modeling Framework for TypeScript
 
 TypeScript interfaces converted from Eclipse EMF Core.
